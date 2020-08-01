@@ -8,7 +8,7 @@
 	"MainImage": "https://i.imgur.com/xiFIgWc.png",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/CldpgR8.png",
+	"AboutImage": "https://i.imgur.com/wbSj8P5.jpg",
 	"AboutContent": [
 		"I’m a Computer Science student, YouTuber, Stock Invester, Personal Development Book reader, Vegan and a loyal friend.",
 		"With my YouTube Channel, I want to contribute to the community on what I know and believe in.",
@@ -17,7 +17,7 @@
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		""
 	],
 	"WorkImage": "https://i.imgur.com/CldpgR8.png",
 	"ContentPublishStartLine": "Some of the content I published :",
