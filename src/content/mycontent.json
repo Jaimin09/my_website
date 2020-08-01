@@ -20,7 +20,7 @@
 		""
 	],
 	"WorkImage": "https://i.imgur.com/CldpgR8.png",
-	"InternshipsStartLine": "Previously, I have ....",
+	"InternshipsStartLine": "Content I have published :",
 	"InternShips": [{
 			"name": "YouTube Channel - Code Booster",
 			"link": "https://www.youtube.com/channel/UCJFAF6IsaMkzHBDdfriY-yQ?sub_confirmation=1"
@@ -50,15 +50,15 @@
 	],
 
 	"CVStartLine": "You can find my resume here : ",
-	"CV": "",
+	"CV": "https://drive.google.com/file/d/1cGPDTcr-AV_akUgB97m6iLwJ2nHsyQkv/view",
 	"Resume": "https://drive.google.com/file/d/1cGPDTcr-AV_akUgB97m6iLwJ2nHsyQkv/view?usp=sharing",
 
 	"emailid": "mailto:jaiminhpatel@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/jaimin-patel-4bb166162/",
 	"wordpress": "https://www.cevgroup.org/beginners-machine-learning-explained-simply/",
-	"facebook": "https://www.facebook.com/aditya",
+	"facebook": "https://www.facebook.com/JaiminPatel09",
 	"github": "https://github.com/Jaimin09",
 	"instagram": "https://www.instagram.com/jaiminpatel_009/",
 	"twitter": "",
-	"medium": "https://medium.com/@ketkaraditya"
+	"medium": ""
 }
