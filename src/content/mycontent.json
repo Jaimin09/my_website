@@ -8,9 +8,9 @@
 	"MainImage": "https://i.imgur.com/xiFIgWc.png",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/B8FeIXB.png",
+	"AboutImage": "https://i.imgur.com/CldpgR8.png",
 	"AboutContent": [
-		"I’m a Computer Science student, YouTuber, Stock Invester, Personal Development books reader, Vegan and a loyal friend.",
+		"I’m a Computer Science student, YouTuber, Stock Invester, Personal Development Book reader, Vegan and a loyal friend.",
 		"With my YouTube Channel, I want to contribute to the community on what I know and believe in.",
 		"I always have a keen interest, in finding what the life has to offer me.",
 		"I am passionate about Machine Learning, Coding and helping others learn the same."
@@ -19,8 +19,8 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "https://i.imgur.com/CldpgR8.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "",
+	"InternshipsStartLine": "",
 	"InternShips": [{
 			"name": "Amazon India",
 			"link": "#"
