@@ -36,20 +36,20 @@
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Jessica - A Virtual Assistant",
+			"link": "https://github.com/Jaimin09/Jessica---A-Virtual-Assistant"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Human Activity Recognition",
+			"link": "https://github.com/Jaimin09/Human-Activity-Recognition-ML"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+			"name": "Cars Game",
+			"link": "https://github.com/Jaimin09/Cars-Game"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "English to French Translater",
+			"link": "https://github.com/Jaimin09/English-to-French-Translator"
 		}
 	],
 
