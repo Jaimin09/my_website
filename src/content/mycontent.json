@@ -19,19 +19,15 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "",
-	"InternshipsStartLine": "",
-	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
+	"WorkImage": "https://i.imgur.com/CldpgR8.png",
+	"ContentPublishStartLine": "Some of the content I published :",
+	"ContentPublished": [{
+			"name": "My YouTube Channel on Machine Learning :",
+			"link": "https://www.youtube.com/channel/UCJFAF6IsaMkzHBDdfriY-yQ?sub_confirmation=1"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Blog on Machine Learning :",
+			"link": "https://www.cevgroup.org/beginners-machine-learning-explained-simply/"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
